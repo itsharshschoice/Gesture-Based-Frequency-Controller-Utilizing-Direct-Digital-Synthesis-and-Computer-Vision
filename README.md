@@ -38,8 +38,6 @@ Arduino outputs the sine wave digitally as a PWM signal. The RC low-pass filter 
 - Resistor + Capacitor (RC filter)
 - Digital Storage Oscilloscope (DSO)
 
-![App Screenshot](https://github.com/itsharshschoice/Gesture-Based-Frequency-Controller-Utilizing-Direct-Digital-Synthesis-and-Computer-Vision/blob/main/Images/hardware.png?raw=true)
-
 
 ## **Directory Structure**
 
@@ -50,6 +48,13 @@ Gesture-Based-Frequency-Control:
 | arduino_dds.ino | Arduino code for DDS-based sine generation |
 | gesture_control.ipynb | Python code for gesture detection and frequency control |
 
+## **Circuit Implementation**
+
+![App Screenshot](https://github.com/itsharshschoice/Gesture-Based-Frequency-Controller-Utilizing-Direct-Digital-Synthesis-and-Computer-Vision/blob/main/Images/implementation.png?raw=true)
+
+## **Hardware**
+
+![App Screenshot](https://github.com/itsharshschoice/Gesture-Based-Frequency-Controller-Utilizing-Direct-Digital-Synthesis-and-Computer-Vision/blob/main/Images/hardware.png?raw=true)
 
 
 ## **How It Works**
